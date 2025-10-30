@@ -1,0 +1,81 @@
+Type,Vector,Group,Event Name,Total Count,Unique Devices,Department
+Threat,App,Behavior,Malicious APK,3543,1002,Finance
+Threat,Network,Interception,Man-in-the-Middle (MITM),4426,1801,Finance
+Risk,Device,Settings,Non-Compliance Policy,2349,986,Legal
+Threat,User,Social Engineering,Phishing Attack,4042,1306,Legal
+Threat,App,Behavior,Exploit Attempt,1067,425,Support
+Risk,Device,Configuration,Rooted Device,636,311,Operations
+Risk,App,Permissions,Excessive Permissions,4219,1056,Sales
+Threat,Network,C2,Command and Control,957,165,HR
+Risk,App,Permissions,Excessive Permissions,3022,536,Legal
+Threat,Network,Interception,Man-in-the-Middle (MITM),3987,712,Legal
+Risk,Device,Update,Missing Patch,3223,519,Admin
+Threat,Identity,Credentials,Credential Stuffing,736,45,Support
+Risk,App,Configuration,Sideloaded App,2320,358,Admin
+Threat,Network,C2,Command and Control,81,16,Support
+Risk,Device,Update,Outdated OS,3472,714,Admin
+Threat,Network,C2,Command and Control,455,40,Sales
+Risk,Identity,Credentials,Weak Password,2673,1175,Support
+Risk,Device,Settings,Unverified Source,1097,376,Legal
+Threat,Identity,Credentials,Credential Stuffing,3644,454,Engineering
+Threat,App,Behavior,Malicious APK,1405,616,Operations
+Risk,App,Configuration,Insecure App Config,4332,1081,HR
+Threat,Network,C2,Command and Control,1363,404,Sales
+Risk,Device,Configuration,Rooted Device,438,189,IT
+Risk,App,Configuration,Unencrypted Storage,1075,54,Engineering
+Threat,App,Behavior,Exploit Attempt,4304,135,Sales
+Threat,App,Behavior,Exploit Attempt,3003,1445,Marketing
+Risk,App,Configuration,Sideloaded App,185,65,Engineering
+Threat,User,Social Engineering,Phishing Attack,2819,403,Operations
+Risk,Device,Settings,Unverified Source,2602,1200,Legal
+Threat,App,Behavior,Malicious APK,4170,1708,Admin
+Risk,App,Configuration,Sideloaded App,3005,976,Legal
+Risk,App,Configuration,Unencrypted Storage,4719,646,Legal
+Risk,App,Configuration,Insecure App Config,802,262,IT
+Risk,App,Data Handling,Data Leakage,191,15,HR
+Risk,Device,Update,Outdated OS,2348,742,Sales
+Threat,App,Behavior,Malicious APK,4804,1372,Legal
+Risk,App,Configuration,Insecure App Config,4179,931,Support
+Threat,Identity,Credentials,Brute Force Attack,4344,958,Sales
+Risk,Device,Update,Missing Patch,2612,650,Engineering
+Threat,Network,Behavior,Data Exfiltration,4142,1740,Admin
+Risk,Device,Update,Missing Patch,1262,49,HR
+Risk,Device,Update,Missing Patch,3795,1225,Support
+Risk,App,Data Handling,Data Leakage,4028,1537,Engineering
+Risk,Identity,Credentials,Weak Password,278,23,HR
+Threat,User,Social Engineering,Phishing Attack,2206,34,Marketing
+Risk,App,Configuration,Insecure App Config,2206,219,HR
+Risk,Device,Settings,Non-Compliance Policy,4929,924,Support
+Threat,Network,C2,Command and Control,1732,416,Marketing
+Threat,Identity,Credentials,Credential Stuffing,1132,92,HR
+Risk,App,Permissions,Excessive Permissions,603,61,Engineering
+Threat,Network,C2,Command and Control,3443,1098,Sales
+Risk,Device,Configuration,Rooted Device,2744,413,Engineering
+Risk,App,Data Handling,Data Leakage,2630,776,Engineering
+Risk,Device,Settings,Non-Compliance Policy,1910,501,Operations
+Threat,App,Behavior,Exploit Attempt,450,156,Engineering
+Risk,App,Configuration,Sideloaded App,2938,154,Operations
+Risk,App,Data Handling,Data Leakage,2341,890,Support
+Risk,App,Configuration,Sideloaded App,527,50,Sales
+Threat,Network,Behavior,Data Exfiltration,326,117,Marketing
+Threat,Identity,Credentials,Credential Stuffing,2761,151,IT
+Threat,Identity,Credentials,Credential Stuffing,2794,1262,Sales
+Threat,Network,C2,Command and Control,3878,125,Legal
+Risk,App,Configuration,Unencrypted Storage,2602,1054,Sales
+Risk,Device,Settings,Non-Compliance Policy,3208,262,Engineering
+Threat,Network,Interception,Man-in-the-Middle (MITM),1703,777,Legal
+Risk,App,Permissions,Excessive Permissions,1226,319,Marketing
+Risk,Device,Configuration,Rooted Device,2257,826,Finance
+Threat,Identity,Credentials,Credential Stuffing,1730,494,Support
+Threat,Network,Interception,Man-in-the-Middle (MITM),1153,293,Finance
+Risk,Device,Settings,Non-Compliance Policy,4772,1920,Legal
+Threat,Network,C2,Command and Control,1240,473,Engineering
+Threat,Identity,Credentials,Credential Stuffing,2255,606,Sales
+Risk,App,Configuration,Unencrypted Storage,3951,1957,IT
+Risk,App,Configuration,Unencrypted Storage,1814,778,Sales
+Risk,Device,Update,Missing Patch,708,309,Marketing
+Risk,Device,Configuration,Rooted Device,2947,1034,Operations
+Threat,Identity,Credentials,Brute Force Attack,2828,1281,Engineering
+Risk,Device,Update,Outdated OS,4262,803,Operations
+Risk,App,Configuration,Insecure App Config,2621,428,Engineering
+Threat,Network,Interception,Network Sniffing,2775,103,IT
